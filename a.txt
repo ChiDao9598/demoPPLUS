@@ -1,3 +1,6 @@
+
 chidao 
 # chuc nang 2
+#chuc nang 1
+#chuc nang 3
 
